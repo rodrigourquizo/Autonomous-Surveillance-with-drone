@@ -1,3 +1,3 @@
 # Autonomous Surveillance with drone
 This project is for the course: Proyecto Electrónico 1 for the Pontificia Catolica del Peru University
-![alt text](https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone/blob/main/drone.jpg)
+![alt text](https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone/blob/main/app.jpg)

@@ -11,4 +11,7 @@ This project was developed for the Proyecto Electronico course at PUCP
 - 🔔 **Real-time alerts via Telegram bot** when a person is detected in a protected area  
 - 🚁 Ready to be integrated with autonomous drones for aerial patrol
 
-![alt text](https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone/blob/main/app.jpg)
+<p align="center">
+  <img src="https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone/blob/main/app.jpg" alt="Drone Surveillance App" width="500"/>
+</p>
+

@@ -12,6 +12,6 @@ This project was developed for the Proyecto Electronico course at PUCP
 - 🚁 Ready to be integrated with autonomous drones for aerial patrol
 
 <p align="center">
-  <img src="https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone/blob/main/app.jpg" alt="Drone Surveillance App" width="500"/>
+  <img src="https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone/blob/main/app.jpg" alt="Drone Surveillance App" width="700"/>
 </p>
 
